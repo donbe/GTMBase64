@@ -17,7 +17,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "GTMDefines.h"
+#import <GTMDefines.h>
 
 // GTMBase64
 //
